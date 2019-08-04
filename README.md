@@ -6,6 +6,7 @@
 ### Nếu dự án clone về chưa có file .env thì bạn phải làm thêm bước sau 
 ### Tiếp theo copy 1 file .env từ 1 dự án laravel mới vào folder này ( hoặc rename file ".env.example" thành ".env" )
 ### Tiếp theo chạy câu lệnh "php artisan key:generate" để tạo app key bảo mật mới
+### Tạo CSDL mới và import file authen.sql trong kho chứa vào navicat
 ### sau đó sửa 1 số tham số cấu hình trong file .env như kết nối đến CSDL , URL ...
 ### Cuối cùng chạy thử dự án 
 ### Tài khoản admin : admin@gmail.com/123456789
