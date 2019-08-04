@@ -8,3 +8,4 @@
 ### Tiếp theo chạy câu lệnh "php artisan key:generate" để tạo app key bảo mật mới
 ### sau đó sửa 1 số tham số cấu hình trong file .env như kết nối đến CSDL , URL ...
 ### Cuối cùng chạy thử dự án 
+### Tài khoản admin : admin@gmail.com/123456789
